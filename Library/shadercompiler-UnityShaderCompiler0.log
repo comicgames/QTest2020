@@ -1,0 +1,28 @@
+Base path: '/Applications/Unity/Hub/Editor/2019.2.17f1/Unity.app/Contents', plugins path '/Applications/Unity/Hub/Editor/2019.2.17f1/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=4068 outsize=4069 ok=1
+Cmd: preprocess
+  insize=2670 outsize=1628 ok=1
+Cmd: preprocess
+  insize=2674 outsize=2163 ok=1
+Cmd: preprocess
+  insize=1677 outsize=547 ok=1
+Cmd: preprocess
+  insize=2249 outsize=1612 ok=1
+Cmd: preprocess
+  insize=2531 outsize=667 ok=1
+Cmd: preprocess
+  insize=2694 outsize=2161 ok=1
+Cmd: preprocessCompute
+  insize=2800 outsize=2807 ok=1
+Cmd: preprocess
+  insize=2679 outsize=2146 ok=1
+Cmd: preprocess
+  insize=2794 outsize=1615 ok=1
+Cmd: preprocess
+  insize=2916 outsize=1556 ok=1
+Cmd: compileSnippet
+  api=14 type=0 insize=2295 outsize=1774 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING ok=1
+Cmd: compileSnippet
+  api=14 type=1 insize=2295 outsize=1046 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING ok=1
