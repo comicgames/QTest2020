@@ -1388,7 +1388,6 @@ MonoBehaviour:
   - {fileID: -2448197897027090582}
   - {fileID: -3535642194505511179}
   - {fileID: 3679833298252433171}
-  - {fileID: 5217032467699367406}
   - {fileID: -2996904070248176155}
   - {fileID: 5769021246481714060}
 --- !u!114 &3679833298252433171
@@ -1462,43 +1461,6 @@ MonoBehaviour:
   quality:
     overrideState: 0
     value: 2
---- !u!114 &5217032467699367406
-MonoBehaviour:
-  m_ObjectHideFlags: 3
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7a34fa72bd4185749832024e9c8010bf, type: 3}
-  m_Name: ScreenSpaceReflections
-  m_EditorClassIdentifier: 
-  active: 1
-  enabled:
-    overrideState: 1
-    value: 1
-  preset:
-    overrideState: 0
-    value: 2
-  maximumIterationCount:
-    overrideState: 0
-    value: 16
-  resolution:
-    overrideState: 0
-    value: 0
-  thickness:
-    overrideState: 0
-    value: 8
-  maximumMarchDistance:
-    overrideState: 0
-    value: 100
-  distanceFade:
-    overrideState: 0
-    value: 0.5
-  vignette:
-    overrideState: 0
-    value: 0.5
 --- !u!114 &5769021246481714060
 MonoBehaviour:
   m_ObjectHideFlags: 3
